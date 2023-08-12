@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66309" started-at="2023-08-12T07:20:14Z" finished-at="2023-08-12T07:21:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66309" started-at="2023-08-12T07:20:14Z" finished-at="2023-08-12T07:21:20Z">
+      <class name="Assinmaent1.slider">
+        <test-method status="PASS" signature="start()[pri:0, instance:Assinmaent1.slider@553f17c]" name="start" is-config="true" duration-ms="4743" started-at="2023-08-12T07:20:14Z" finished-at="2023-08-12T07:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:Assinmaent1.slider@553f17c]" name="befmet" is-config="true" duration-ms="4" started-at="2023-08-12T07:20:19Z" finished-at="2023-08-12T07:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Assinmaent1.slider@553f17c]" name="test1" duration-ms="22764" started-at="2023-08-12T07:20:19Z" finished-at="2023-08-12T07:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:Assinmaent1.slider@553f17c]" name="aftmet" is-config="true" duration-ms="3" started-at="2023-08-12T07:20:42Z" finished-at="2023-08-12T07:20:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=slider.test1()[pri:0, instance:Assinmaent1.slider@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:Assinmaent1.slider@553f17c]" name="befmet" is-config="true" duration-ms="1" started-at="2023-08-12T07:20:42Z" finished-at="2023-08-12T07:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Assinmaent1.slider@553f17c]" name="test2" duration-ms="11488" started-at="2023-08-12T07:20:42Z" finished-at="2023-08-12T07:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:Assinmaent1.slider@553f17c]" name="aftmet" is-config="true" duration-ms="2" started-at="2023-08-12T07:20:53Z" finished-at="2023-08-12T07:20:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=slider.test2()[pri:0, instance:Assinmaent1.slider@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:Assinmaent1.slider@553f17c]" name="befmet" is-config="true" duration-ms="1" started-at="2023-08-12T07:20:53Z" finished-at="2023-08-12T07:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Assinmaent1.slider@553f17c]" name="test3" duration-ms="8493" started-at="2023-08-12T07:20:53Z" finished-at="2023-08-12T07:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:Assinmaent1.slider@553f17c]" name="aftmet" is-config="true" duration-ms="1" started-at="2023-08-12T07:21:02Z" finished-at="2023-08-12T07:21:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=slider.test3()[pri:0, instance:Assinmaent1.slider@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:Assinmaent1.slider@553f17c]" name="befmet" is-config="true" duration-ms="1" started-at="2023-08-12T07:21:02Z" finished-at="2023-08-12T07:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:Assinmaent1.slider@553f17c]" name="test4" duration-ms="18466" started-at="2023-08-12T07:21:02Z" finished-at="2023-08-12T07:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:Assinmaent1.slider@553f17c]" name="aftmet" is-config="true" duration-ms="0" started-at="2023-08-12T07:21:20Z" finished-at="2023-08-12T07:21:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test4 status=SUCCESS method=slider.test4()[pri:0, instance:Assinmaent1.slider@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Assinmaent1.slider@553f17c]" name="end" is-config="true" duration-ms="304" started-at="2023-08-12T07:21:20Z" finished-at="2023-08-12T07:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Assinmaent1.slider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
